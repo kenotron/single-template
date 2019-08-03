@@ -1,4 +1,4 @@
-import { hello } from '../';
+import { hello } from '../helloworld';
 describe('hello', () => {
   it('says hello', () => {
     const result = hello('world');
