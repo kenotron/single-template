@@ -1,0 +1,20 @@
+{
+  "name": "ideal-single",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/preset-env": "^7.5.5",
+    "@babel/preset-react": "^7.0.0",
+    "@babel/preset-typescript": "^7.3.3",
+    "@babel/core": "^7.5.5",
+    "@types/jest": "^24.0.16",
+    "jest": "^24.8.0",
+    "typescript": "^3.5.3"
+  },
+  "scripts": {
+    "test": "jest",
+    "build": "tsc",
+    "start": "tsc -w --preserveWatchOutput"
+  }
+}
