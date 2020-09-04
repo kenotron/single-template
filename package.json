@@ -34,7 +34,7 @@
     "jest-expect-message": "^1.0.2",
     "json5": "^2.1.0",
     "just-scripts": "^0.26.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "postcss": "^7.0.13",
     "postcss-loader": "^3.0.0",
     "style-loader": "^0.23.1",
